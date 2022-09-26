@@ -1,0 +1,5 @@
+amount=int(input("enter amount"))
+year=float(input("enter year"))
+rate=float(input("enter rate"))
+si=(amount*year*rate)/100
+print("simple interest %f"%(si)) 
