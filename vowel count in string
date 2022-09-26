@@ -1,0 +1,4 @@
+a=str(input("enter string"))
+sorted(a)
+b=len("a,e,i,o,u"in c)
+print(b)
